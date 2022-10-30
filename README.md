@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi ✌🏻, I'm Malek Arkan</h1>
 <h3 align="center">A passionate website developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkanmalek72&label=Profile%20views&color=0e75b6&style=flat" alt="arkanmalek72" /> </p>
