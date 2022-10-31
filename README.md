@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/arkanmalek8" target="blank"><img src="https://img.shields.io/twitter/follow/arkanmalek8?logo=twitter&style=for-the-badge" alt="arkanmalek8" /></a> </p>
 
-- 🔭 I’m currently working on **C language**
+- 🔭 I’m currently working on **WEB site developing skill and programming languages **
 
 - 💬 Ask me about **HTML,CSS and many more to come**
 
