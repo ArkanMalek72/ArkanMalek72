@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web app and backend development**
 
-- 💬 Ask me about **HTML CSS Javascript Python**
+- 💬 Ask me about **HTML CSS Javascript **
 
 - 📫 How to reach me **arkanmalek.99@gmail.com**
 
