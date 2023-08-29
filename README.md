@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **arkanmalek.99@gmail.com**
 
-- ⚡ Fun fact **fun fact for me is => I love to be in discipline but this generation doesn't know what is discipline and how much it is important for all of us!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@arkanmalek8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arkanmalek8" height="30" width="40" /></a>
